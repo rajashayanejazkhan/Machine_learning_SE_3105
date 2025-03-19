@@ -33,7 +33,7 @@ The MNIST dataset consists of grayscale images of handwritten digits (0-9), each
 - Misclassified samples analysis.
 
 ### Graphical Representation
-![image](https://github.com/user-attachments/assets/67c6292d-1d17-4dca-958c-0b74b1bf74c5)
+![image](https://github.com/user-attachments/assets/a2b94ff3-c3bc-4659-890f-b5bb50606a5a)
 
 
 ## Discussion
